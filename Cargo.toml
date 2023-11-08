@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "utils",
+    "gl-wrapper",
+    "bowl",
+]
